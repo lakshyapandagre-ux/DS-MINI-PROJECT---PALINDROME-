@@ -20,4 +20,5 @@ Simply open `index.html` in any modern web browser.
 
 ## 🏫 Subject Details
 - **Subject**: Data Structures
-- **Submitted To**: Mr. Ankit Chakrabarty
+- **Submitted To**: Mr. Ankit Chakrawarti
+
